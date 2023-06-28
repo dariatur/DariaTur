@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DariaTur
+- 👋 Hi, I’m Daria
 - 🌱 I’m currently learning Java. Also I learned a little bit Python.
 
 
